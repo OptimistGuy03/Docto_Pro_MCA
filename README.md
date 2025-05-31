@@ -52,4 +52,4 @@ The **DoctoPro Medical Data Authentication Process** follows a multi-step approa
 
 ## Installation & Setup
 ```bash
-git clone https://github.com/TechnoMage21/MCA_Project
+git clone https://github.com/OptimistGuy03/Docto_Pro_MCA
